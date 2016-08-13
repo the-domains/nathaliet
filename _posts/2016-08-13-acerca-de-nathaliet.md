@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-13T19:45:28.867Z'
+datePublished: '2016-08-13T21:24:24.150Z'
 sourcePath: _posts/2016-08-13-acerca-de-nathaliet.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-13T19:45:28.278Z'
+dateModified: '2016-08-13T21:24:23.380Z'
 title: Acerca de Nathaliet
 publisher: {}
 description: >-
@@ -12,7 +13,6 @@ description: >-
   confeccionar diseños a medida. Los diseños de Nathaliet brindan una tendencia
   fashionista, con clase y estilo, que buscan potenciar los valor de la mujer
   actual independiente y con confianza.
-hasPage: true
 starred: false
 url: acerca-de-nathaliet/index.html
 _type: Blurb
