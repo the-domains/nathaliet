@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-13T18:43:03.191Z'
+datePublished: '2016-08-13T18:49:27.778Z'
 sourcePath: _posts/2016-08-13-acerca-de-nathaliet.md
 author: []
 via: {}
-dateModified: '2016-08-13T18:43:02.567Z'
+dateModified: '2016-08-13T18:49:27.217Z'
 title: Acerca de Nathaliet
 publisher: {}
 description: >-
