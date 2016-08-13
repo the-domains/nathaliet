@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-13T18:11:52.122Z'
+datePublished: '2016-08-13T18:22:51.104Z'
 sourcePath: _posts/2016-08-13-acerca-de-nathaliet.md
 author: []
 via: {}
-dateModified: '2016-08-13T18:11:51.510Z'
+dateModified: '2016-08-13T18:22:50.099Z'
 title: Acerca de Nathaliet
 publisher: {}
 description: >-
@@ -25,3 +25,5 @@ Nathalie Maldonado, Miss Antofagasta 2012, apasionada por la moda y por la oport
 ![Nathalie Maldonado, Fundadora y Diseñadora de Nathaliet.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a92dfda-3a6a-42db-a122-5fe3e50e86c9.jpg)
 
 Cada uno de los modelos es diseñado con dedicación por Nathalie Maldonado y completamente manufacturado en Antofagasta, dando una calidad y exclusividad única en cada entrega. Esta dedicación nos permite conocer en detalle los estilos y tendencias actuales, de forma de entregar cada vez mejor una experiencia de compra a nuestras clientas.
+
+asdfadsf
