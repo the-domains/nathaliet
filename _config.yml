@@ -36,5 +36,8 @@ navigation:
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
+  - name: '#NathalietMe'
+    id: 04bf183b-1e36-4a9c-a4e9-08d8667fc545
+    type: content
 title: Nathaliet
 description: Diseños Exclusivos
