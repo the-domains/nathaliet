@@ -15,11 +15,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5c75ce-0720-4549-aa32-48a9f80b9e60.png
 name: Nathaliet
 navigation:
-  - name: Poleras
-    url: 'https://thegrid.ai/nathaliet-poleras/'
-    type: external
   - name: Home
     url: 'http://thegrid.ai/nathaliet/'
+    type: external
+  - name: Poleras
+    url: 'https://thegrid.ai/nathaliet-poleras/'
     type: external
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
