@@ -24,5 +24,8 @@ navigation:
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
     type: external
+  - name: Vestidos
+    url: 'https://thegrid.ai/nathaliet-vestidos'
+    type: external
 title: Nathaliet
 description: Diseños Exclusivos
