@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T05:24:07.812Z'
+datePublished: '2016-08-14T05:43:07.668Z'
 sourcePath: _posts/2016-08-13-acerca-de-nathaliet.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T05:24:07.065Z'
+dateModified: '2016-08-14T05:43:07.016Z'
 title: Acerca de Nathaliet
 publisher: {}
 description: >-
