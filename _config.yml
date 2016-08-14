@@ -15,11 +15,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5c75ce-0720-4549-aa32-48a9f80b9e60.png
 name: Nathaliet
 navigation:
-  - name: Vestidos
-    url: 'https://thegrid.ai/nathalietvestidos/'
-    type: external
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
+  - name: Vestidos
+    url: 'https://thegrid.ai/nathalietvestidos/'
+    type: external
 title: Nathaliet
 description: Diseños Exclusivos
