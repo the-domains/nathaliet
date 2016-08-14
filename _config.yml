@@ -27,11 +27,11 @@ navigation:
   - name: Vestidos
     url: 'https://thegrid.ai/nathaliet-vestidos'
     type: external
-  - name: Acerca de Nathaliet
-    id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
-    type: content
   - name: Trajes de Baño
     url: 'https://thegrid.ai/nathaliet-trajes-de-bano/'
     type: external
+  - name: Acerca de Nathaliet
+    id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
+    type: content
 title: Nathaliet
 description: Diseños Exclusivos
