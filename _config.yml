@@ -42,5 +42,8 @@ navigation:
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
+  - name: Home
+    url: 'http://thegrid.ai/nathaliet/'
+    type: external
 title: Nathaliet
 description: Diseños Exclusivos
