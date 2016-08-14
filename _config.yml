@@ -21,5 +21,8 @@ navigation:
   - name: Poleras
     url: 'https://thegrid.ai/nathaliet-poleras/'
     type: external
+  - name: Crop Tops
+    url: 'https://thegrid.ai/nathaliet-croptops'
+    type: external
 title: Nathaliet
 description: Diseños Exclusivos
