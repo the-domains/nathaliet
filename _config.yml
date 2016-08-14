@@ -12,7 +12,7 @@ color:
     - '#00547F'
 layout_spectrum: 0.9852233431302011
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5c75ce-0720-4549-aa32-48a9f80b9e60.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d5a261-1653-4045-b793-ce186e313239.png
 name: Nathaliet
 navigation:
   - name: Home
@@ -42,5 +42,7 @@ navigation:
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a924bc-090e-46bf-bb9f-a1816980e200.png
 title: Nathaliet
 description: Diseños Exclusivos
