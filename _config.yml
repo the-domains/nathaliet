@@ -1,16 +1,16 @@
-typography_spectrum: 0.6812682275194675
+typography_spectrum: 0.4415736007504165
 color:
-  brandStrength: 0.37362026888877153
-  lightness: 0.4018748365342617
-  saturation: 0.8320099054835737
-  rhythmicContrast: 0.0837654008064419
+  brandStrength: 0.32077818526886404
+  lightness: 0.6093443906866014
+  saturation: 0.294144235085696
+  rhythmicContrast: 0.5781292377505451
   brandColors:
-    - '#B7C9DF'
-    - '#010506'
-    - '#018EC3'
-    - '#A7816C'
-    - '#00547F'
-layout_spectrum: 0.9852233431302011
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+layout_spectrum: 0.05426179012283683
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c5c75ce-0720-4549-aa32-48a9f80b9e60.png
 name: Nathaliet
