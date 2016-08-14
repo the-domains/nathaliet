@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-08-14T05:14:17.202Z'
-datePublished: '2016-08-14T05:14:29.573Z'
+dateModified: '2016-08-14T05:16:24.321Z'
+datePublished: '2016-08-14T05:16:24.967Z'
 title: '#NathalietMe'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-nathalietme.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: nathalietme/index.html
+_type: Blurb
 
 ---
 # \#NathalietMe
