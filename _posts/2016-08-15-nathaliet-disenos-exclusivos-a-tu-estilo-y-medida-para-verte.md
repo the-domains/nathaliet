@@ -2,17 +2,17 @@
 description: >-
   Diseñado con dedicación por Nathalie Maldonado y completamente manufacturado
   en Antofagasta, dando una calidad y exclusividad única en diseño.
-dateModified: '2016-08-15T15:25:39.950Z'
-datePublished: '2016-08-15T15:26:03.649Z'
+dateModified: '2016-08-15T15:26:27.141Z'
+datePublished: '2016-08-15T15:26:27.758Z'
 title: >-
   Nathaliet diseños exclusivos a tu estilo y medida para verte y sentirte bella
   como tu misma.
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-15-nathaliet-disenos-exclusivos-a-tu-estilo-y-medida-para-verte.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
