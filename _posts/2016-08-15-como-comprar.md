@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-15T17:58:48.594Z'
+datePublished: '2016-08-15T18:03:42.780Z'
 sourcePath: _posts/2016-08-15-como-comprar.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:58:47.977Z'
+dateModified: '2016-08-15T18:03:41.838Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb216500-638e-44bb-a873-3f597a83882f.jpg)
+![COMO COMPRAR](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb216500-638e-44bb-a873-3f597a83882f.jpg)
 
 * **CONVERSEMOS EN FACEBOOK**
 
