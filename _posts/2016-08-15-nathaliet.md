@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-15T17:08:06.673Z'
+datePublished: '2016-08-15T17:11:25.968Z'
 sourcePath: _posts/2016-08-15-nathaliet.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:08:05.963Z'
+dateModified: '2016-08-15T17:11:25.236Z'
 title: NATHALIET
 publisher:
   name: Nathaliet
   url: 'https://www.facebook.com/nathalietme/'
-description: ''
+description: Agendar una cita
 starred: true
 inFeed: true
 hasPage: true
@@ -19,8 +19,8 @@ _type: Article
 
 ---
 # NATHALIET
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2019caf0-ba9f-4644-a638-461d2dcca124.jpg)
 
 ### Deja de pensar en tu estilo soñado y hazlo realidad.
 
-## Agendar una cita
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2019caf0-ba9f-4644-a638-461d2dcca124.jpg)
+Agendar una cita
