@@ -1,4 +1,20 @@
 ---
+datePublished: '2016-08-15T02:57:56.661Z'
+sourcePath: _posts/2016-08-15-nathaliet-958-likes-39-talking-about-this-instagram-nat.md
+isBasedOnUrl: >-
+  https://www.facebook.com/nathalietme/photos/a.754279671332101.1073741827.754246384668763/1178553818904682/?type=1&theater
+keywords:
+  - page
+  - chile
+  - sost
+  - tipo
+  - bellos
+  - ais
+  - envios
+  - arriba
+  - dise
+  - exclusivos
+related: []
 author:
   - name: Nathaliet
     url: 'http://facebook.com/754246384668763'
@@ -25,27 +41,8 @@ author:
         - - 175
           - 114
           - 85
-related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
-keywords:
-  - page
-  - chile
-  - sost
-  - tipo
-  - bellos
-  - ais
-  - envios
-  - arriba
-  - dise
-  - exclusivos
-description: >-
-  Nathaliet. 958 likes · 39 talking about this. Instagram: Nathalietmoda Envios
-  a todo chile. Diseños exclusivos. Antofagasta, Chile.
-inLanguage: en
+via: {}
+dateModified: '2016-08-15T02:57:55.847Z'
 title: ''
 app_links:
   - url: 'fb://page/754246384668763'
@@ -58,18 +55,21 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: >-
-  https://www.facebook.com/nathalietme/photos/a.754279671332101.1073741827.754246384668763/1178553818904682/?type=1&theater
-datePublished: '2016-08-15T02:57:12.576Z'
-dateModified: '2016-08-15T02:57:11.450Z'
-via: {}
-sourcePath: _posts/2016-08-15-nathaliet-958-likes-39-talking-about-this-instagram-nat.md
+publisher:
+  url: 'http://www.facebook.com'
+  name: Facebook
+  favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+  domain: www.facebook.com
+description: >-
+  Nathaliet. 958 likes · 39 talking about this. Instagram: Nathalietmoda Envios
+  a todo chile. Diseños exclusivos. Antofagasta, Chile.
+inLanguage: en
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Nathaliet. 958 likes · 39 talking about this. Instagram: Nathalietmoda Envios a todo chile. Diseños exclusivos. Antofagasta, Chile.](https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13770269_1178553818904682_7177733468427003187_n.jpg?oh=aecf58d3e98e2db28458d170ea482193&oe=585023CA)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a318eb9473b8f759583a74ac0d99c9052ea69d00.jpg)
