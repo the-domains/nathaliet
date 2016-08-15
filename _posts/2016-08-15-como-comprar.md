@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-15T17:48:45.055Z'
+datePublished: '2016-08-15T17:58:48.594Z'
 sourcePath: _posts/2016-08-15-como-comprar.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:48:44.087Z'
-title: COMO COMPRAR
+dateModified: '2016-08-15T17:58:47.977Z'
+title: ''
 publisher: {}
 description: >-
   Envía por mensaje a Nathaliet tu idea de diseño, asegúrate de incluir tu
@@ -17,8 +17,6 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb216500-638e-44bb-a873-3f597a83882f.jpg)
-
-## **COMO COMPRAR**
 
 * **CONVERSEMOS EN FACEBOOK**
 
