@@ -39,9 +39,6 @@ navigation:
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
-  - name: Poleras
-    url: 'https://thegrid.ai/nathaliet-poleras/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a924bc-090e-46bf-bb9f-a1816980e200.png
 title: Nathaliet
