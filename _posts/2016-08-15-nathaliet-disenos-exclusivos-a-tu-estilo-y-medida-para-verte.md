@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-15T17:49:48.806Z'
+datePublished: '2016-08-15T17:58:01.828Z'
 sourcePath: >-
   _posts/2016-08-15-nathaliet-disenos-exclusivos-a-tu-estilo-y-medida-para-verte.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:49:48.235Z'
+dateModified: '2016-08-15T17:58:01.119Z'
 title: Diseños exclusivos a tu estilo y medida.
 publisher: {}
 description: >-
@@ -17,8 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a424da4-76d9-4f5d-8984-49484398e4e2.png)
-
 ## Diseños exclusivos a tu estilo y medida.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a424da4-76d9-4f5d-8984-49484398e4e2.png)
 
 Diseñado con dedicación por Nathalie Maldonado y completamente manufacturado en Antofagasta, dando una calidad y exclusividad única en diseño.
