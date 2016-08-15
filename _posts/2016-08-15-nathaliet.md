@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-15T17:11:25.968Z'
+datePublished: '2016-08-15T18:27:23.721Z'
 sourcePath: _posts/2016-08-15-nathaliet.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:11:25.236Z'
+dateModified: '2016-08-15T18:27:22.979Z'
 title: NATHALIET
 publisher:
   name: Nathaliet
   url: 'https://www.facebook.com/nathalietme/'
 description: Agendar una cita
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
