@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-15T18:03:42.780Z'
+datePublished: '2016-08-15T18:24:35.258Z'
 sourcePath: _posts/2016-08-15-como-comprar.md
 author: []
 via: {}
-dateModified: '2016-08-15T18:03:41.838Z'
+dateModified: '2016-08-15T18:24:34.643Z'
 title: ''
 publisher: {}
 description: >-
   Envía por mensaje a Nathaliet tu idea de diseño, asegúrate de incluir tu
   inspiración con fotos o video, tus medidas y todo lo que tienes en mente.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
