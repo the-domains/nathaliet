@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-15T17:49:44.606Z'
+datePublished: '2016-08-15T17:49:48.806Z'
 sourcePath: >-
   _posts/2016-08-15-nathaliet-disenos-exclusivos-a-tu-estilo-y-medida-para-verte.md
 author: []
 via: {}
-dateModified: '2016-08-15T17:49:43.531Z'
+dateModified: '2016-08-15T17:49:48.235Z'
 title: Diseños exclusivos a tu estilo y medida.
 publisher: {}
 description: >-
