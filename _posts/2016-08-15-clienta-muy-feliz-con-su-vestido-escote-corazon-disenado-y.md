@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-15T03:51:33.274Z'
+datePublished: '2016-08-15T14:29:06.235Z'
 sourcePath: >-
   _posts/2016-08-15-clienta-muy-feliz-con-su-vestido-escote-corazon-disenado-y.md
 isBasedOnUrl: >-
@@ -23,7 +23,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e3ca66a92eaecbb1075ea1a18b5adbceeac614c.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bac3bef661e8bf14e581f87bde8c6e97/croprotate.jpg?cropheight=688&cropwidth=720&degrees=0&input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-9%2Fp720x720%2F13015300_1107078566052208_3261545458514360_n.jpg%3Foh%3D811cd2f9a33681c2a24723d1984a8cd1%26oe%3D5857FCE7&x=0&y=16
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e3ca66a92eaecbb1075ea1a18b5adbceeac614c.jpg
       width: 720
       height: 688
       colors:
@@ -43,7 +43,7 @@ author:
           - 127
           - 80
 via: {}
-dateModified: '2016-08-15T03:51:32.716Z'
+dateModified: '2016-08-15T14:29:05.495Z'
 title: ''
 app_links:
   - url: 'fb://page/754246384668763'
@@ -71,4 +71,6 @@ _context: 'http://schema.org'
 _type: Photograph
 
 ---
+> Bello bello!! _😍_ - **Jdra Bradhem**
+
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e3ca66a92eaecbb1075ea1a18b5adbceeac614c.jpg)
