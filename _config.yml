@@ -1,25 +1,22 @@
-typography_spectrum: 0.9857264354359359
+typography_spectrum: 0.27386314468458295
 color:
-  brandStrength: 0.5976461884565651
-  lightness: 0.7382539203390479
-  saturation: 0.8251324323937297
-  rhythmicContrast: 0.09900165139697492
+  brandStrength: 0.7471848907880485
+  lightness: 0.6788913754280657
+  saturation: 0.39003553055226803
+  rhythmicContrast: 0.4260049615986645
   brandColors:
     - '#FFF8E3'
     - '#CCCC9F'
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-layout_spectrum: 0.4415219724178314
+layout_spectrum: 0.9852233431302011
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d5a261-1653-4045-b793-ce186e313239.png
 name: Nathaliet
 navigation:
   - name: Home
     url: 'http://thegrid.ai/nathaliet/'
-    type: external
-  - name: Poleras
-    url: 'https://thegrid.ai/nathaliet-poleras/'
     type: external
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
@@ -42,6 +39,9 @@ navigation:
   - name: Acerca de Nathaliet
     id: cf4e0190-ed87-4feb-a4ab-ae786d0922be
     type: content
+  - name: Poleras
+    url: 'https://thegrid.ai/nathaliet-poleras/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a924bc-090e-46bf-bb9f-a1816980e200.png
 title: Nathaliet
